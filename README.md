@@ -13,7 +13,7 @@ To access only sql-https://github.com/shaikimran03/sqlAssignment-
 
 To access only corejava-https://github.com/shaikimran03/CORE_JAVA
 
-to execute excell sheet programs you need to install 
+To execute operations on excell sheet programs you need to install 
 
 Apache POI library is  on your classpath; you need to add the Apache POI dependencies to your project.
 
